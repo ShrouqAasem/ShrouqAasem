@@ -7,11 +7,15 @@
 
         
         ```
-        {
-          "firstName": "Shrouq",
-          "lastName": "Aasem",
-          "title": "Fullstack JavaScript Developer"
-        }
+        const profile = {
+        name: "Shrouq Aasem",
+        role: "Fullstack JavaScript Developer",
+        passion: "Turning caffeine into code",
+        expertise: ["JavaScript", "TypeScript", "Node.js", "React", "MongoDB", "MySQL"],
+        motto: "Coding is my canvas, and innovation is my masterpiece!",
+        isCreative: true
+        };
+
         ```
 
 
