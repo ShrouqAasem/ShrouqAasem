@@ -11,8 +11,7 @@
         name: "Shrouq Aasem",
         role: "Fullstack JavaScript Developer",
         passion: "Turning caffeine into code",
-        expertise: ["JavaScript", "TypeScript", "Node.js", "React", "MongoDB", "MySQL"],
-        motto: "Coding is my canvas, and innovation is my masterpiece!",
+        expertise: ["ASP.NET", "JavaScript", "TypeScript", "Node.js", "MySQL"],
         isCreative: true
         };
 
@@ -21,6 +20,7 @@
 
 ## Knowledges
 
+[![ASP.NET]()]]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ShrouqAasem/)](https://github.com/ShrouqAasem/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ShrouqAasem/)](https://github.com/ShrouqAasem/)
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&link=https://github.com/ShrouqAasem/)](https://github.com/ShrouqAasem/)
